@@ -4,7 +4,7 @@ Fluorine is used to etch silicon dioxide, this is most typically done with hydro
 `SiO2 + 4HF -> SiF4 + 2H2O`
 
 ## Handling  
-`HF` can be stored in HDPE plastic containers. Glassware containers will burst because glass is a form of `SiO2`.
+`HF` is most often stored in HDPE plastic containers. Recent research shows that polypropylene (PP) 3D printer filament loses only 0.9% of its mass in a typical HF dip[0]. Glassware containers will burst because glass is a form of `SiO2`.
 
 ## Disposal  
 Do not dump HF down the drain, instead react completely with calcium carbonate to neutralise it first:
@@ -18,7 +18,8 @@ Because fluorine is extremely dangerous `HF` is preferred over the gas form sinc
 
 You should always have calcium gluconate on hand to apply immediately if skin is exposed to it. `HF` burns will not be immediately painful, you must carry out emergency procedure regardless. In order to avoid contact with skin PVC gloves should be worn.
 
-If exposed it's advisable to consume large amounts of milk or other drink/food that is high in calcium as this may help neutralise the fluorine[0].
+If exposed it's advisable to consume large amounts of milk or other drink/food that is high in calcium as this may help neutralise the fluorine[1].
 
 ---
-[0] *http://www.calgonate.com/safety_info.php*
+[0] *https://www.researchgate.net/publication/326697946_Chemical_Compatibility_of_Fused_Filament_Fabrication-based_3-D_Printed_Components_with_Solutions_Commonly_Used_in_Semiconductor_Wet_Processing*  
+[1] *http://www.calgonate.com/safety_info.php*
