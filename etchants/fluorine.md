@@ -1,14 +1,14 @@
 Fluorine
 ==
 Fluorine is used to etch silicon dioxide, this is most typically done with hydrofluoric acid in the reaction:
-`SiO2 + 4HF → SiF4 + 2H2O`
+`SiO2 + 4HF -> SiF4 + 2H2O`
 
 ## Handling  
 `HF` can be stored in HDPE plastic containers. Glassware containers will burst because glass is a form of `SiO2`.
 
 ## Disposal  
 Do not dump HF down the drain, instead react completely with calcium carbonate to neutralise it first:
-`CaCO3 + 2HF → CaF2 + H2O`
+`CaCO3 + 2HF -> CaF2 + H2O`
 
 ## Legal  
 In order to use `HF` in the UK you must obtain an [EPP licence](https://www.gov.uk/government/publications/supplying-explosives-precursors/supplying-explosives-precursors-and-poison).
