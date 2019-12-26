@@ -18,8 +18,11 @@ Because fluorine is extremely dangerous `HF` is preferred over the gas form sinc
 
 You should always have calcium gluconate on hand to apply immediately if skin is exposed to it. `HF` burns will not be immediately painful, you must carry out emergency procedure regardless. In order to avoid contact with skin PVC gloves should be worn.
 
-If exposed it's advisable to consume large amounts of milk or other drink/food that is high in calcium as this may help neutralise the fluorine[1].
+If exposed it's advisable to consume TUMS Antacid [1], large amounts of milk or other food/drink that is high in calcium as this may help neutralise the fluorine[2].  
+
+After administering first aid go to the hospital to make sure everything is clear.
 
 ---
 [0] *https://www.researchgate.net/publication/326697946_Chemical_Compatibility_of_Fused_Filament_Fabrication-based_3-D_Printed_Components_with_Solutions_Commonly_Used_in_Semiconductor_Wet_Processing*  
-[1] *http://www.calgonate.com/safety_info.php*
+[1] *https://www.honeywell-hfacid.com/wp-content/uploads/2014/06/2734-Medical-Treatment-for-HF-Acid-Exposure_v7-WEB.pdf*
+[2] *http://www.calgonate.com/safety_info.php*
